@@ -14,5 +14,6 @@
 * Spring_Musiker_XMLConfig.zip &nbsp;&nbsp;&nbsp;&nbsp; Musiker-Beispiel mit Spring (XML-Konfig)
 * Spring_Musiker_MixWithXML.zip &nbsp;&nbsp;&nbsp;&nbsp; Musiker-Beispiel mit Spring (Annotation + XML)
 * Spring_Musiker_JavaConfig.zip &nbsp;&nbsp;&nbsp;&nbsp; Musiker-Beispiel mit Spring (Java-Konfig)
+* Local_JAXWS.zip &nbsp;&nbsp;&nbsp;&nbsp; Einfacher HelloWorld-Soap-Webservice mit den Bordmitteln der Java SE 8
 
 
