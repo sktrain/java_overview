@@ -17,5 +17,8 @@
 * Local_JAXWS.zip &nbsp;&nbsp;&nbsp;&nbsp; Einfacher HelloWorld-Soap-Webservice mit den Bordmitteln der Java SE 8
 ## 1.Tag
 * person &nbsp;&nbsp;&nbsp;&nbsp; Person-Beispiel vom 1. Tag
+## 2.Tag
+* LambdaMotivation &nbsp;&nbsp;&nbsp;&nbsp; Beispielcode zur Lambda-Schreibweise
+
 
 
