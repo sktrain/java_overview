@@ -19,6 +19,9 @@
 * person &nbsp;&nbsp;&nbsp;&nbsp; Person-Beispiel vom 1. Tag
 ## 2.Tag
 * LambdaMotivation &nbsp;&nbsp;&nbsp;&nbsp; Beispielcode zur Lambda-Schreibweise
+## 3.Tag
+* Muster_Mitarbeiter_Maven_Tests.zip &nbsp;&nbsp;&nbsp;&nbsp; Mitarbeiterverwaltung als Maven-Projekt mit Junit-Tests
+
 
 
 
